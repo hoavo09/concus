@@ -1,0 +1,22 @@
+{
+  "name": "concus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoavo09/concus.git"
+  },
+  "author": "Vo Hoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoavo09/concus/issues"
+  },
+  "homepage": "https://github.com/hoavo09/concus#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
