@@ -1,0 +1,20 @@
+{
+  "name": "concus",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vo Hoa"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hoavo09/concus",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
